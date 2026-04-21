@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Daniel
 
-<!--
-**Okorukpong1/Okorukpong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Firebase Backend
+📍 Building responsive and user-focused mobile apps
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🔭 Currently working on Flutter projects
+* 🌱 Open to contributing
+* ⚡ Speedy delivery
+
+
+## 🛠️ Tech Stack
+
+* Flutter & Dart
+* Firebase (Auth, Firestore)
+* REST APIs
+
+---
+
+## 📱 Projects
+
+* 🔹 [Project Name](link) – Short description
+* 🔹 [Project Name](link) – Short description
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Okorukpong1
+* LinkedIn: https://www.linkedin.com/in/daniel-adetunji-719953392?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* X(Twitter): 
